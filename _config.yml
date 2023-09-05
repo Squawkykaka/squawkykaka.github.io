@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: Pacific/Auuckland
+timezone: Pacific/Auckland
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -23,13 +23,13 @@ title: Squawkykaka # the main title
 tagline: Me make blog. me happy # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Me mke blog. Me Happy. Squawkykaka
+  Me make blog. Me Happy. Squawkykaka
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://squawkykaka.com"
 
 github:
-  username: Squawwkykaka # change to your github username
+  username: Squawkykaka # change to your github username
  # change to your twitter username
 
 social:
@@ -45,13 +45,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+# google_site_verification: # fill in to your verification string
 
-# ↑ --------------------------
-# The end of `jekyll-seo-tag` settings
+# # ↑ --------------------------
+# # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: # fill in your Google Analytics ID
+# google_analytics:
+#   id: # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -64,7 +64,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
